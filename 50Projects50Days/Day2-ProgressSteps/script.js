@@ -8,7 +8,7 @@ const circleNodes = document.querySelectorAll('.circle');
 //Highlights active circlenode
 let currentActive = 1;
 
-//Listen for a click and add 1 to any element with "active" class asdasd as
+//Listen for a click and add 1 to any element with "active" class
 next.addEventListener('click', () => {
      currentActive++ 
 })
