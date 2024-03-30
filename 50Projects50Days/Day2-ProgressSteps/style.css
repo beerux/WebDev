@@ -90,9 +90,9 @@ body {
   transform: scale(0.9);
 }
 
-.btn:focus{
-  /* outline: 0; */
-}
+/* .btn:focus{
+  outline: 0;
+} */
 /* Do not remove outlines, hinders web-accessibilty!*/
 
 .btn:disabled{
